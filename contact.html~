@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>R U HCC</title>
+		<!Custom Files:>
+		<link rel="stylesheet" type="text/css" href="pagestyle.css" media="screen"/>
+		<!/>
+	</head>
+
+	<body>
+		<div class="central-header">
+			<img src="images/contact_head.jpg">
+		</div>	
+		<div class="central-column">
+			<p>Getting in touch with us and participating is very easy. You can <a href="mailto:hcc@ee.ryerson.ca">send us an email</a> telling us a little about yourself. We will contact you with details of our rendezvous.<br/>Furthermore you can join us in <a href="http://www.facebook.com/group.php?gid=2218610587">Facebook</a> or follow us in <a href="http://twitter.com/ruhcc">Twitter</a>.
+				<br/><br/>
+				You may also choose to contact us via mail, mail your snails to the following address:<br/>
+				Hobby Computer Club (c/o Eddie Law)<br/>
+				Department of Electrical & Computer Engineering<br/>
+				Ryerson University<br/>
+				350 Victoria Street<br/>
+				Toronto, ON<br/>
+				M5B 2K3<br/>
+			</p>
+		</div>
+	</body>	
+</html>	

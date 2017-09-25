@@ -1,0 +1,7 @@
+#File: robots.txt file for Ryerson Hobby Computer Club website
+#Author: Kowsheek Mahmood (http://www.ee.ryerson.ca/~k3mahmoo/)
+#Version: 1.0
+#Purpose: To block search engines from crawling the backup folder
+
+User-agent: *
+Disallow: /backup/

@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>R U HCC</title>
+		<!Custom Files:>
+		<link rel="stylesheet" type="text/css" href="pagestyle.css" media="screen"/>
+		<!/>
+	</head>
+
+	<body>
+		<div class="central-header">
+			<img src="images/members_head.jpg">
+		</div>	
+		<div class="central-column">
+			<p>
+			<strong>Andy Ye</strong><br />
+			<i>Faculty Supervisor</i><br />
+			</p>
+			<p>
+			<strong>Kowsheek Mahmood</strong><br />
+			<i>President,</i><br />
+			Third year, Computer Engineering
+			</p>
+			<p>
+			<strong>Gregory Beard</a></strong><br />
+			<i>Executive,</i><br />
+			Second year, Computer Science
+			</p>			
+		</div>
+	</body>	
+</html>	

@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>R U HCC</title>
+		<!Custom Files:>
+		<link rel="stylesheet" type="text/css" href="pagestyle.css" media="screen"/>
+		<!/>
+	</head>
+
+	<body>
+		<div class="central-header">
+			<img src="images/resources_head.jpg">
+		</div>	
+		<div class="central-column">
+			<p><strong>Linux</strong><br />
+			<a href="guide.html">Ryerson HCC LEAP Guide</a><br />
+			<i>A short guide to get started with our current project.</i><br />			
+			<a href="http://www.oreillynet.com/linux/cmd/">Linux Command Directory</a><br />
+			<i>List and description of commands in Linux.</i><br />
+			<a href="http://distrowatch.com/">DistroWatch</a><br />
+			<i>News and feature lists of Linux and BSD distributions.</i><br />
+			<a href="http://www.linuxfromscratch.com/">Linux From Scratch</a><br />
+			<i>Assemble a Linux system. Includes all software and an easy to follow guide.</i>
+			</p>
+			
+			<p><strong>Programming Languages</strong><br />
+			<a href="http://www.gnu.org/s/libc/manual/html_node/index.html">The GNU C Library</a><br />
+			<i>Definition of all of the library functions that are specified by the ISO C standard, as well as additional features specific to POSIX and other derivatives of the Unix operating system, and extensions specific to the GNU system.</i><br />
+			<a href="http://www2.its.strath.ac.uk/courses/c/">C Programming</a><br />
+			<i>A tutorial on C that starts with the very basic and ends with the very complex.</i><br />
+			<a href="http://java.sun.com/docs/books/tutorial/">The Java<small><sup>TM</sup></small> Tutorials</a><br />
+			<i>Practical guide for programmers learning to use the Java programming language to create applications.</i>
+			</p>
+
+			<p><strong>Applications</strong><br />
+			<a href="http://www.netbeans.org/">Netbeans</a><br />
+			<i>The original free Java IDE that supports several languages and frameworks provides a powerful platform with many complementing products.</i><br />
+			<a href="http://notepad-plus.sourceforge.net/uk/site.htm">Notepad++</a><br />
+			<i>Open-source code editor and Notepad replacement that supports a multitude of languages.</i><br />
+			<a href="http://www.virtualbox.org/">VirtualBox</a><br />
+			<i>An extremely feature rich, high performance virtualization product running on Windows, Linux, Macintosh and OpenSolaris hosts and supports a large number of guest.</i><br />
+			<a href="http://www.codeblocks.org/">Code::Blocks</a><br />
+			<i>A free C/C++ IDE that is designed to be very extensible and fully configurable.</i>
+			</p>
+		</div>
+	</body>	
+</html>	

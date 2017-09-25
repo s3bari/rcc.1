@@ -1,0 +1,141 @@
+html {
+	height:100%;
+}
+
+body {
+	background:#000;
+	height:100%;
+	font-family:Serif;
+}
+
+/*image properties begin here*/
+img {
+	border:none;
+}
+
+img#box {
+	padding:0px;
+}
+/*image properties end here*/
+
+/*site-wide link properties begin here*/
+a {
+	color:#fff;
+}
+
+a:link {
+	text-decoration:underline;
+}
+
+a:visited {
+	color:#fff;
+}
+
+a:active {
+	color:#fff;
+}
+
+a:hover {
+	text-decoration:none;
+}
+/*site-wide link properties end here*/
+
+/*navigation bar properties begin here*/
+/*navigation bar properties end here*/
+
+/*body classes begin here*/
+.central-header {
+	margin-right:auto;
+	margin-left:auto;
+	width:600px;
+	height:100px;
+	background:#000;
+}
+
+.index-central-column {
+	margin-top:50px;
+	margin-right:auto;
+	margin-left:auto;
+	width:600px;
+	height:150px;
+	background:#000;
+}
+
+.index-central-column-txt {
+	margin-top:10px;
+	margin-right:auto;
+	margin-left:auto;
+	width:600px;
+	height:200px;
+	background:#000;
+}
+
+.projects-central-column {
+	margin-top:-60px;
+	margin-right:auto;
+	margin-left:auto;
+	width:600px;
+	height:auto;
+	color:#fff;
+	background:#000;
+}
+
+.central-column {
+	margin-top:-45px;
+	margin-right:auto;
+	margin-left:auto;
+	width:600px;
+	height:auto;
+	color:#fff;
+	background:#000;
+}
+
+/*body classes end here*/
+
+/*index page menu properties begin here*/
+#boxes {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+#boxes li {
+	float:left;
+	display:block;
+	width:120px;
+	margin:;
+	display:inline;
+	padding:; 
+	background:#fff;
+	border:; 
+	height:150px;
+}
+
+#boxes li:hover {
+}
+/*index page menu properties end here*/
+
+/*footer classes begin here*/
+.footer-container {
+	min-height:100%;
+	margin-bottom:-400px;
+	position: relative;
+}
+
+.footer-content {
+	color:#fff;
+	margin-right:auto;
+	margin-left:auto;
+	width:400px;
+}
+
+.clear-footer {
+	height:200px;
+	clear:both;
+}
+
+.footer {
+	height:200px;
+	position:relative;
+}
+/*footer classes end here*/
